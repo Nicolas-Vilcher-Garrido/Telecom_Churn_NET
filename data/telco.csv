@@ -1,0 +1,12 @@
+﻿CustomerID,Gender,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,Churn
+C1001,Female,3,120,360,Month-to-month,Fiber optic,Yes
+C1002,Male,24,80,1920,Two year,DSL,No
+C1003,Female,5,95,475,Month-to-month,Fiber optic,Yes
+C1004,Male,12,60,720,One year,DSL,No
+C1005,Female,36,70,2520,Two year,No,No
+C1006,Male,2,130,260,Month-to-month,Fiber optic,Yes
+C1007,Female,8,55,440,Month-to-month,DSL,No
+C1008,Male,18,85,1530,One year,Fiber optic,No
+C1009,Female,1,110,110,Month-to-month,Fiber optic,Yes
+C1010,Male,30,65,1950,Two year,DSL,No
+C1011,Female,7,75,525,Month-to-month,DSL,No

@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+
+# artefatos gerados
+artifacts/
+!artifacts/clean/
+!artifacts/clean/*.csv
+
+# IDE
+.vscode/
+*.log
