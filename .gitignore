@@ -7,6 +7,6 @@ artifacts/
 !artifacts/clean/
 !artifacts/clean/*.csv
 
-# IDE
+# IDE / logs
 .vscode/
 *.log
